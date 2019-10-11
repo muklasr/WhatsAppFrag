@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00838F</color>
+    <color name="colorPrimaryDark">#80CBC4</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBackground">#FAFAFA</color>
+    <color name="statusViewed">#EEEEEE</color>
+    <color name="statusRecent">#80CBC4</color>
+</resources>
